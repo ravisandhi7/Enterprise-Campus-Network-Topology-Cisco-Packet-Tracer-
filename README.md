@@ -203,7 +203,7 @@ No manual intervention required
 
  ![OSPF_Reconvergence_and_Link_Failure_Simulation](screenshots/ospf/OSPF_Reconvergence_and_Link_Failure_Simulation.png)
 
- A failover test was performed by shutting down the VLAN interface on Dist-R2. HSRP successfully failed over to Dist-R3, and OSPF adjacency reconverged automatically, demonstrating network resiliency and dynamic routing recovery.
+ A failover test was performed by shutting down the VLAN interface on Dist-R2. OSPF adjacency reconverged automatically, demonstrating network resiliency and dynamic routing recovery.
 
 
 ✔ **OSPF Link Recovery and Reconvergence**

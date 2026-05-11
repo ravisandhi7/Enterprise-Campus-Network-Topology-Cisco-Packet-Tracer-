@@ -225,17 +225,6 @@ The OSPF network dynamically adapted to a simulated link failure on GigabitEther
 
 HSRP maintained gateway availability using virtual IP addresses. Active and standby roles were distributed across routers to ensure continuous network access during failures.
 
-📸 **Screenshots (Proof of Implementation)
-Add your Packet Tracer screenshots here
-Network Topology Overview
-VLAN Configuration
-Trunk Links Verification
-Router Subinterfaces (Router-on-a-Stick)
-HSRP Status Output
-OSPF Neighbor Table
-Routing Table (show ip route)
-Failover Test (before/after shutdown)**
-
 🧠 **Skills Demonstrated**
 
 Enterprise Network Design

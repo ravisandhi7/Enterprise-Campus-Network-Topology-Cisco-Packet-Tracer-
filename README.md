@@ -155,7 +155,12 @@ interface GigabitEthernet0/0.10
 
   ![INTERFACE_TRUNK_SW_CORE_1](screenshots/trunking/INTERFACE_TRUNK_SW_CORE_1.png)
 
+  ![ROAS_DIST_R2](screenshots/trunking/ROAS_DIST_R2.png)
+
   ![INTERFACE_TRUNK_SW_CORE_2](screenshots/trunking/INTERFACE_TRUNK_SW_CORE_2.png)
+
+  ![ROAS_DIST_R3](screenshots/trunking/ROAS_DIST_R3.png)
+
 
 **OSPF Configuration**
 

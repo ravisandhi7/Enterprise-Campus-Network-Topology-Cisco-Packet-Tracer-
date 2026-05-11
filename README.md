@@ -191,7 +191,7 @@ HSRP Status - show standby brief
 
 🔁 **Failover Testing Results**
 
-✔ **HSRP Gateway Failover**
+✔ **OSPF Reconvergence and Link Failure Simulation**
 
 Active router automatically changes on failure
 
@@ -199,13 +199,22 @@ Virtual IP remains unchanged
 
 No manual intervention required
 
-✔ **OSPF Reconvergence**
+ ![OSPF_Reconvergence_and_Link_Failure_Simulation](screenshots/ospf/OSPF_Reconvergence_and_Link_Failure_Simulation.png)
+
+ A failover test was performed by shutting down the VLAN subinterface on Dist-R2. HSRP successfully failed over to Dist-R3, and OSPF adjacency reconverged automatically, demonstrating network resiliency and dynamic routing recovery.
+
+
+✔ **OSPF Link Recovery and Reconvergence**
 
 Link failure triggers route recalculation
 
 Alternate paths automatically used
 
 Network remains fully operational
+
+ ![OSPF_Link_Recovery_and_Reconvergence](screenshots/ospf/OSPF_Link_Recovery_and_Reconvergence.png)
+
+The OSPF network dynamically adapted to a simulated link failure on GigabitEthernet0/1. After the interface was restored, OSPF automatically reconverged and reinstated all routing paths without manual intervention, demonstrating high availability and network resilience.
 
 📸 **Screenshots (Proof of Implementation)
 Add your Packet Tracer screenshots here

@@ -147,9 +147,13 @@ Virtual IP remains unchanged
 No manual intervention required
 
 ✔ **OSPF Reconvergence**
+
 Link failure triggers route recalculation
+
 Alternate paths automatically used
+
 Network remains fully operational
+
 📸 **Screenshots (Proof of Implementation)
 Add your Packet Tracer screenshots here
 Network Topology Overview

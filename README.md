@@ -1,4 +1,4 @@
-🌐 Enterprise Campus Network Topology (Cisco Packet Tracer)
+🌐 ** Enterprise Campus Network Topology (Cisco Packet Tracer) **
 📌 Project Overview
 
 This project is a fully designed enterprise-grade campus network topology built using Cisco Packet Tracer. It demonstrates core networking concepts such as VLAN segmentation, inter-VLAN routing, HSRP redundancy, and dynamic routing using OSPF.

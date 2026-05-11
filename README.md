@@ -216,6 +216,15 @@ Network remains fully operational
 
 The OSPF network dynamically adapted to a simulated link failure on GigabitEthernet0/1. After the interface was restored, OSPF automatically reconverged and reinstated all routing paths without manual intervention, demonstrating high availability and network resilience.
 
+✔ **HSRP Active/Standby Gateway Redundancy**
+
+ ![HSRP_FAILOVER_DIST_R2](screenshots/hsrp/HSRP_FAILOVER_DIST_R2.png)
+
+  ![HSRP_FAILOVER_DIST_R3](screenshots/hsrp/HSRP_FAILOVER_DIST_R3.png)
+
+
+HSRP maintained gateway availability using virtual IP addresses. Active and standby roles were distributed across routers to ensure continuous network access during failures.
+
 📸 **Screenshots (Proof of Implementation)
 Add your Packet Tracer screenshots here
 Network Topology Overview

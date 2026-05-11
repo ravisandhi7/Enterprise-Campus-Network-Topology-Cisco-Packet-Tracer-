@@ -153,6 +153,10 @@ interface GigabitEthernet0/0.10
  
  standby 10 ip 192.168.10.254
 
+  ![INTERFACE_TRUNK_SW_CORE_1](screenshots/trunking/INTERFACE_TRUNK_SW_CORE_1.png)
+
+  ![INTERFACE_TRUNK_SW_CORE_2](screenshots/trunking/INTERFACE_TRUNK_SW_CORE_2.png)
+
 **OSPF Configuration**
 
 router ospf 1

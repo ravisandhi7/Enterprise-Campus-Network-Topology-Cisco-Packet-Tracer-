@@ -14,13 +14,29 @@ The network is designed using a three-router core layer with multiple VLAN-enabl
 
 🔹 **Core Devices**
 
-Router 1 (Core-R1)
+Core-R1
 
-Router 2 (Dist-R2)
+Dist-R2
 
-Router 3 (Dist-R3)
+Dist-R3
 
-Layer 2 Access Switches
+Layer 2 Switches
+
+SW-Core-1
+
+SW-Core-2
+
+SW-MGMT
+
+SW-ENGG
+
+SW-HR
+
+SW-SALES
+
+SW-ACCOUNTING
+
+SW-FINANCE
 
 🏢 **VLAN Design**
 

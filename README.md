@@ -10,6 +10,8 @@ The design focuses on high availability, fault tolerance, scalability, and redun
 
 The network is designed using a three-router core layer with multiple VLAN-enabled access networks.
 
+![TOPOLOGY](screenshots/topology/TOPOLOGY.png)
+
 🔹 **Core Devices**
 
 Router 1 (Core-R1)

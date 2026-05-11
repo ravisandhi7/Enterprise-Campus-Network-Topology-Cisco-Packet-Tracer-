@@ -119,6 +119,10 @@ Load Balancing Strategy:
 
 Active gateways are distributed between Dist-R2 and Dist-R3.
 
+![HSRP](screenshots/hsrp/STANDBY_BRIEF_DIST_R2.png)
+
+![HSRP](screenshots/hsrp/STANDBY_BRIEF_DIST_R3.png)
+
 📡 **OSPF Routing**
 
 Protocol: OSPF
@@ -158,6 +162,11 @@ router ospf 1
  network 10.10.20.0 0.0.0.255 area 0
  
  network 10.10.30.0 0.0.0.255 area 0
+
+ ![RUNNING_CONFIG_DIST_R2_OSPF](screenshots/ospf/RUNNING_CONFIG_DIST_R2_OSPF.png)
+
+ ![RUNNING_CONFIG_DIST_R3_OSPF](screenshots/ospf/RUNNING_CONFIG_DIST_R3_OSPF.png)
+
 
 **🔍 Verification Commands**
 

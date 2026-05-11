@@ -14,13 +14,15 @@ The network is designed using a three-router core layer with multiple VLAN-enabl
 
 🔹 **Core Devices**
 
+**Routers:**
+
 Core-R1
 
 Dist-R2
 
 Dist-R3
 
-Layer 2 Switches
+**Layer 2 Switches:**
 
 SW-Core-1
 
